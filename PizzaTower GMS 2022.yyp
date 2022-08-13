@@ -28,6 +28,7 @@
     {"id":{"name":"spr_noisecrusher_jumpprep","path":"sprites/spr_noisecrusher_jumpprep/spr_noisecrusher_jumpprep.yy",},"order":25,},
     {"id":{"name":"spr_noisecrusherhelmet_bounce","path":"sprites/spr_noisecrusherhelmet_bounce/spr_noisecrusherhelmet_bounce.yy",},"order":27,},
     {"id":{"name":"spr_noisecrusher_bounce","path":"sprites/spr_noisecrusher_bounce/spr_noisecrusher_bounce.yy",},"order":29,},
+    {"id":{"name":"bg_kitchentable","path":"sprites/bg_kitchentable/bg_kitchentable.yy",},"order":2,},
     {"id":{"name":"spr_noisey_dead","path":"sprites/spr_noisey_dead/spr_noisey_dead.yy",},"order":31,},
     {"id":{"name":"spr_noisey_stun","path":"sprites/spr_noisey_stun/spr_noisey_stun.yy",},"order":33,},
     {"id":{"name":"spr_noisey_walk","path":"sprites/spr_noisey_walk/spr_noisey_walk.yy",},"order":35,},
