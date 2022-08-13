@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "mu_chateau",
-  "duration": 0.0,
+  "duration": 181.65552,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

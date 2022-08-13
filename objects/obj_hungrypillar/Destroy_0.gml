@@ -42,6 +42,10 @@ if ((ds_list_find_index(global.saveroom, id) == -1) && (global.snickchallenge ==
             global.minutes = 3
             global.seconds = 30
             break
+		case kitchen_7:
+            global.minutes = 3
+            global.seconds = 30
+            break
     }
     
     global.wave = 0

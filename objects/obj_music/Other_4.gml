@@ -62,6 +62,16 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_desert
         }
     }
+    if (string_letters(roomname) == "kitchensecret")
+    {
+        if (!audio_is_playing(mu_secret))
+        {
+            audio_stop_all()
+            scr_sound(mu_secret)
+            audio_sound_set_track_position(global.music, fadeoff)
+            pausedmusic = mu_secret
+        }
+    }
     if (string_letters(roomname) == "dungeon")
     {
         for (i = 0; i < 20; i++)

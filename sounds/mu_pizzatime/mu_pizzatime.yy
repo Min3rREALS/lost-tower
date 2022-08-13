@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.7,
   "preload": true,
   "bitRate": 192,
   "sampleRate": 44100,
@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_pizzatime",
-  "duration": 0.0,
+  "soundFile": "mu_pizzatime.ogg",
+  "duration": 220.10399,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
