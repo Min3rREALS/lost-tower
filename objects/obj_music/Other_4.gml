@@ -52,7 +52,7 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_entrance
         }
     }
-    if (string_letters(roomname) == "kitchen")
+    if (string_letters(roomname) == "dungeon")
     {
         if (!audio_is_playing(mu_desert))
         {
@@ -72,21 +72,21 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_secret
         }
     }
-    if (string_letters(roomname) == "dungeon")
+    if (string_letters(roomname) == "kitchen")
     {
         for (i = 0; i < 20; i++)
         {
-            if ((roomname == ("dungeon_" + string(i))) && (i <= 8))
+            if ((roomname == ("kitchen_" + string(i))) && (i <= 6))
             {
-                if (!audio_is_playing(mu_dungeon))
+                if (!audio_is_playing(mu_desert))
                 {
                     audio_stop_all()
-                    scr_sound(mu_dungeon)
+                    scr_sound(mu_desert)
                     audio_sound_set_track_position(global.music, fadeoff)
-                    pausedmusic = mu_dungeon
+                    pausedmusic = mu_desert
                 }
             }
-            else if ((roomname == ("dungeon_" + string(i))) && (i > 8))
+            else if ((roomname == ("kitchen_" + string(i))) && (i > 6))
             {
                 if (!audio_is_playing(mu_dungeondepth))
                 {

@@ -1,6 +1,6 @@
 with (other.id)
 {
-    sprite_index = choose(spr_xmastopping1, spr_xmastopping2, spr_xmastopping3, spr_xmastopping4, spr_xmastopping5)
+    sprite_index = choose(spr_shroomcollect, spr_tomatocollect, spr_cheesecollect, spr_sausagecollect, spr_pineapplecollect)
     image_speed = 0.35
     global.collected = 0
     global.collectsound = 0
