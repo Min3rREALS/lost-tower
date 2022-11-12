@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_player_chainsawcrouch",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,27 +27,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"25d0f255-5a8a-4871-97dc-7524440ef77e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"25d0f255-5a8a-4871-97dc-7524440ef77e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"25d0f255-5a8a-4871-97dc-7524440ef77e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"e82cc497-984f-49c2-849c-d4da59b1c714","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e82cc497-984f-49c2-849c-d4da59b1c714","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"e82cc497-984f-49c2-849c-d4da59b1c714","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3f20c830-bc02-439f-9e40-0011e0c04421","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3f20c830-bc02-439f-9e40-0011e0c04421","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"3f20c830-bc02-439f-9e40-0011e0c04421","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"13bef7ef-2a9a-448e-9814-bd16fff57313","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"13bef7ef-2a9a-448e-9814-bd16fff57313","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"13bef7ef-2a9a-448e-9814-bd16fff57313","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"LayerId":{"name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"25d0f255-5a8a-4871-97dc-7524440ef77e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e82cc497-984f-49c2-849c-d4da59b1c714",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3f20c830-bc02-439f-9e40-0011e0c04421",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"13bef7ef-2a9a-448e-9814-bd16fff57313",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,17 +45,17 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 6.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f7e4caf3-4372-448b-9a28-2d08d1a98d8c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"25d0f255-5a8a-4871-97dc-7524440ef77e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"53cef606-0335-4e2e-b0b9-41c0fb0c5020","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"d14dd782-8d90-450c-8c05-d790e88674ff","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e82cc497-984f-49c2-849c-d4da59b1c714","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"493f985d-a3ed-4b71-9829-e02328eb6150","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3f20c830-bc02-439f-9e40-0011e0c04421","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"4e1f8ba6-c5c7-45fc-b2f2-126615d4f5eb","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13bef7ef-2a9a-448e-9814-bd16fff57313","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"672301ee-d60e-4b87-bbf2-8084d7dd5a66","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"f7e4caf3-4372-448b-9a28-2d08d1a98d8c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"25d0f255-5a8a-4871-97dc-7524440ef77e","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"53cef606-0335-4e2e-b0b9-41c0fb0c5020","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"592e3a46-94bf-42f8-83b7-b1e6792b9b63","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d14dd782-8d90-450c-8c05-d790e88674ff","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e82cc497-984f-49c2-849c-d4da59b1c714","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"493f985d-a3ed-4b71-9829-e02328eb6150","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3f20c830-bc02-439f-9e40-0011e0c04421","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4e1f8ba6-c5c7-45fc-b2f2-126615d4f5eb","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13bef7ef-2a9a-448e-9814-bd16fff57313","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"672301ee-d60e-4b87-bbf2-8084d7dd5a66","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a64c6fc4-cd3e-448c-bc83-9ca30b888db6","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -78,22 +71,13 @@
     "yorigin": 98,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_chainsawcrouch","path":"sprites/spr_player_chainsawcrouch/spr_player_chainsawcrouch.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c8f3ea0f-05c4-4c22-8e58-ec0ef0bf509e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pepino",
     "path": "folders/Sprites/pepino.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_player_chainsawcrouch",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

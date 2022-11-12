@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_castle1escape",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"LayerId":{"name":"34e1f380-368d-4328-ba0d-37927588017e","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_castle1escape","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b28b971c-6093-4606-89e2-64e005f2c5ec","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b28b971c-6093-4606-89e2-64e005f2c5ec","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"LayerId":{"name":"34e1f380-368d-4328-ba0d-37927588017e","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_castle1escape","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","name":"b28b971c-6093-4606-89e2-64e005f2c5ec","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b28b971c-6093-4606-89e2-64e005f2c5ec",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_castle1escape","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"335ef3b7-39fe-4433-8899-1397a04a588b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"30c14128-1e43-4031-80c1-59d305878adb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b28b971c-6093-4606-89e2-64e005f2c5ec","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"335ef3b7-39fe-4433-8899-1397a04a588b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7bbd43d-059f-47d0-b0ee-2c73cc872ced","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"30c14128-1e43-4031-80c1-59d305878adb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b28b971c-6093-4606-89e2-64e005f2c5ec","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_castle1escape","path":"sprites/bg_castle1escape/bg_castle1escape.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"34e1f380-368d-4328-ba0d-37927588017e","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"34e1f380-368d-4328-ba0d-37927588017e","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "castle",
     "path": "folders/Sprites/tilesets/castle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_castle1escape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

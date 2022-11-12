@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_halloweendeco3",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,21 +27,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":{"name":"e2207743-9c6e-4597-9c78-c15af639949b","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"39862cb8-bb59-4ce7-af94-b1463dbbb597","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"39862cb8-bb59-4ce7-af94-b1463dbbb597","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":{"name":"e2207743-9c6e-4597-9c78-c15af639949b","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"39862cb8-bb59-4ce7-af94-b1463dbbb597","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"890c6617-3517-4723-8001-998180fee32a","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"890c6617-3517-4723-8001-998180fee32a","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":{"name":"e2207743-9c6e-4597-9c78-c15af639949b","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"890c6617-3517-4723-8001-998180fee32a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"LayerId":{"name":"e2207743-9c6e-4597-9c78-c15af639949b","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"39862cb8-bb59-4ce7-af94-b1463dbbb597",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"890c6617-3517-4723-8001-998180fee32a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -46,15 +43,15 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 4.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d0cf02a2-d94c-4165-8959-22397952ce36","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"97181a3f-29ab-447f-8998-5c18719ef51c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"39862cb8-bb59-4ce7-af94-b1463dbbb597","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"b4f91063-df53-4e01-aeb2-2769170d0899","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"890c6617-3517-4723-8001-998180fee32a","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"96d9564e-9c5d-410f-8aaf-d26ca638f3a2","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"d0cf02a2-d94c-4165-8959-22397952ce36","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"31b19443-c635-42ec-99a5-c1b1bfb80eb4","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"97181a3f-29ab-447f-8998-5c18719ef51c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"39862cb8-bb59-4ce7-af94-b1463dbbb597","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b4f91063-df53-4e01-aeb2-2769170d0899","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"890c6617-3517-4723-8001-998180fee32a","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"96d9564e-9c5d-410f-8aaf-d26ca638f3a2","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f81abc17-6a06-4e1b-b881-54c3c12b6b97","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -70,22 +67,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_halloweendeco3","path":"sprites/spr_halloweendeco3/spr_halloweendeco3.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e2207743-9c6e-4597-9c78-c15af639949b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e2207743-9c6e-4597-9c78-c15af639949b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "chateau",
     "path": "folders/Sprites/tilesets/chateau.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_halloweendeco3",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_metalblockdebrisescape",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,21 +27,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"39deaf87-04f5-4421-b1fe-c93f48207d79","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"39deaf87-04f5-4421-b1fe-c93f48207d79","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"39deaf87-04f5-4421-b1fe-c93f48207d79","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"459b4c8c-9008-4784-bab5-3eb843e8b98f","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"459b4c8c-9008-4784-bab5-3eb843e8b98f","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"LayerId":{"name":"39deaf87-04f5-4421-b1fe-c93f48207d79","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","name":"459b4c8c-9008-4784-bab5-3eb843e8b98f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"459b4c8c-9008-4784-bab5-3eb843e8b98f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -46,15 +43,15 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 4.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b612f444-0718-44c1-8da4-5f9d60c40710","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"6d5b79b3-0a6e-4c7e-bad2-ebc7a429d392","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"91f06a06-31dc-4d7d-840e-591f281f5997","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"9999b20c-05c4-4a3c-8562-62b9a2976ff8","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"459b4c8c-9008-4784-bab5-3eb843e8b98f","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"b612f444-0718-44c1-8da4-5f9d60c40710","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bb19468c-8f9f-4192-bd89-4c60eb5e53ea","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6d5b79b3-0a6e-4c7e-bad2-ebc7a429d392","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1baf55e3-6166-4969-a483-c1e6a38dc4ae","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"91f06a06-31dc-4d7d-840e-591f281f5997","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ea6e03a-84ea-4ad6-bf77-2fb8abab4c49","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9999b20c-05c4-4a3c-8562-62b9a2976ff8","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"459b4c8c-9008-4784-bab5-3eb843e8b98f","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -70,22 +67,13 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_metalblockdebrisescape","path":"sprites/spr_metalblockdebrisescape/spr_metalblockdebrisescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"39deaf87-04f5-4421-b1fe-c93f48207d79","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"39deaf87-04f5-4421-b1fe-c93f48207d79","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "others",
     "path": "folders/Sprites/others.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_metalblockdebrisescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

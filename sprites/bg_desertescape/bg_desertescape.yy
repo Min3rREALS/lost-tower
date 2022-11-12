@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_desertescape",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"35ff2283-ae05-4ae1-a894-9f48a16311c7","path":"sprites/bg_desertescape/bg_desertescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"35ff2283-ae05-4ae1-a894-9f48a16311c7","path":"sprites/bg_desertescape/bg_desertescape.yy",},"LayerId":{"name":"446efe86-fe53-4f2e-be5a-4d1b575b528b","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_desertescape","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","name":"35ff2283-ae05-4ae1-a894-9f48a16311c7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489","path":"sprites/bg_desertescape/bg_desertescape.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489","path":"sprites/bg_desertescape/bg_desertescape.yy",},"LayerId":{"name":"446efe86-fe53-4f2e-be5a-4d1b575b528b","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_desertescape","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"35ff2283-ae05-4ae1-a894-9f48a16311c7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_desertescape","path":"sprites/bg_desertescape/bg_desertescape.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b1f2a0bc-41a3-4580-93a7-fd2853840031","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"35ff2283-ae05-4ae1-a894-9f48a16311c7","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"f1cb7f2e-dd89-41dd-9ce8-5403df2011a0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"b1f2a0bc-41a3-4580-93a7-fd2853840031","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"35ff2283-ae05-4ae1-a894-9f48a16311c7","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f1cb7f2e-dd89-41dd-9ce8-5403df2011a0","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7e9eae0-4c1d-4f23-9a2c-760ebe96e489","path":"sprites/bg_desertescape/bg_desertescape.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_desertescape","path":"sprites/bg_desertescape/bg_desertescape.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"446efe86-fe53-4f2e-be5a-4d1b575b528b","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"446efe86-fe53-4f2e-be5a-4d1b575b528b","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "desert",
     "path": "folders/Sprites/tilesets/desert.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_desertescape",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

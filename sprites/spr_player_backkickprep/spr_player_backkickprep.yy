@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_player_backkickprep",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,18 +27,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"179c44ee-5170-40a5-9f4d-12b6c1386d35","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"179c44ee-5170-40a5-9f4d-12b6c1386d35","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":{"name":"67f8f6e9-d6b9-4547-9b4c-cd6cd7c763af","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_backkickprep","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"179c44ee-5170-40a5-9f4d-12b6c1386d35","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":{"name":"67f8f6e9-d6b9-4547-9b4c-cd6cd7c763af","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_backkickprep","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"80013295-0d89-43fb-8cfa-a42ac491e3eb","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"80013295-0d89-43fb-8cfa-a42ac491e3eb","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"LayerId":{"name":"67f8f6e9-d6b9-4547-9b4c-cd6cd7c763af","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_backkickprep","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","name":"80013295-0d89-43fb-8cfa-a42ac491e3eb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"179c44ee-5170-40a5-9f4d-12b6c1386d35",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"80013295-0d89-43fb-8cfa-a42ac491e3eb",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_backkickprep","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,14 +42,14 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 3.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3dc30fce-bd66-4036-b2fd-361edaad51ed","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"179c44ee-5170-40a5-9f4d-12b6c1386d35","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"27497cb5-a357-44b1-a610-1a72ce787bbc","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"a39624bc-4e38-4957-9b3c-8b867590be1f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80013295-0d89-43fb-8cfa-a42ac491e3eb","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"3dc30fce-bd66-4036-b2fd-361edaad51ed","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"179c44ee-5170-40a5-9f4d-12b6c1386d35","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"27497cb5-a357-44b1-a610-1a72ce787bbc","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fccfd5cb-cb26-4c52-aaa8-9cb10cab7e95","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a39624bc-4e38-4957-9b3c-8b867590be1f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80013295-0d89-43fb-8cfa-a42ac491e3eb","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +65,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_backkickprep","path":"sprites/spr_player_backkickprep/spr_player_backkickprep.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"67f8f6e9-d6b9-4547-9b4c-cd6cd7c763af","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"67f8f6e9-d6b9-4547-9b4c-cd6cd7c763af","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pepino",
     "path": "folders/Sprites/pepino.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_player_backkickprep",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

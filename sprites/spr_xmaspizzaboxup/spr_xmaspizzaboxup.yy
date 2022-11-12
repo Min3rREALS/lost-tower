@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_xmaspizzaboxup",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,12 +27,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"LayerId":{"name":"f82cda6b-2b94-4fec-82da-8cdf54db5f44","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_xmaspizzaboxup","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"resourceVersion":"1.0","name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_xmaspizzaboxup","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -37,12 +40,12 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 1.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"24b3a549-175e-4430-a1c1-1f3f3dcc7813","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"24b3a549-175e-4430-a1c1-1f3f3dcc7813","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d1af3ec-7b3c-459c-b19a-b80b79ff4bc5","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -58,22 +61,13 @@
     "yorigin": 48,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_xmaspizzaboxup","path":"sprites/spr_xmaspizzaboxup/spr_xmaspizzaboxup.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f82cda6b-2b94-4fec-82da-8cdf54db5f44","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f82cda6b-2b94-4fec-82da-8cdf54db5f44","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "demoevents",
     "path": "folders/Sprites/demoevents.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_xmaspizzaboxup",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

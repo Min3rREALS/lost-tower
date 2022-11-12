@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_sausagemannocigar_land",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,27 +27,17 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4a68f358-8273-4634-bb50-701fde8d241e","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4a68f358-8273-4634-bb50-701fde8d241e","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"4a68f358-8273-4634-bb50-701fde8d241e","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"33b44a8d-9c97-42b0-b643-a52aceddcb18","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"33b44a8d-9c97-42b0-b643-a52aceddcb18","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"33b44a8d-9c97-42b0-b643-a52aceddcb18","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f65e908c-fcfe-49a7-9094-864d2b99154a","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f65e908c-fcfe-49a7-9094-864d2b99154a","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"f65e908c-fcfe-49a7-9094-864d2b99154a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"89d640d2-8ba4-4263-89d2-446b09b2342c","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"89d640d2-8ba4-4263-89d2-446b09b2342c","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"89d640d2-8ba4-4263-89d2-446b09b2342c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c991247f-4d62-422e-a04d-f4c712fdcfaa","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c991247f-4d62-422e-a04d-f4c712fdcfaa","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"LayerId":{"name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","name":"c991247f-4d62-422e-a04d-f4c712fdcfaa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4a68f358-8273-4634-bb50-701fde8d241e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"33b44a8d-9c97-42b0-b643-a52aceddcb18",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f65e908c-fcfe-49a7-9094-864d2b99154a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"89d640d2-8ba4-4263-89d2-446b09b2342c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c991247f-4d62-422e-a04d-f4c712fdcfaa",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -52,17 +45,17 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 6.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"37479cf7-fb3a-493b-b45c-78bd1fc218fe","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4a68f358-8273-4634-bb50-701fde8d241e","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"e11efba0-a70d-4a03-865a-bf38d3762c68","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33b44a8d-9c97-42b0-b643-a52aceddcb18","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"e2730430-d7c7-49ed-862a-3714a2fba643","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"10c37ffd-36f2-4ad4-8f97-71bc93198b63","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f65e908c-fcfe-49a7-9094-864d2b99154a","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"643752eb-681d-4590-aaa2-b81a11504d92","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89d640d2-8ba4-4263-89d2-446b09b2342c","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"c8486b74-ac00-482e-ab09-4ac9cc053879","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c991247f-4d62-422e-a04d-f4c712fdcfaa","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"37479cf7-fb3a-493b-b45c-78bd1fc218fe","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4a68f358-8273-4634-bb50-701fde8d241e","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e11efba0-a70d-4a03-865a-bf38d3762c68","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33b44a8d-9c97-42b0-b643-a52aceddcb18","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e2730430-d7c7-49ed-862a-3714a2fba643","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee074d45-14a8-45a8-82bd-d4883ad66a1d","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"10c37ffd-36f2-4ad4-8f97-71bc93198b63","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f65e908c-fcfe-49a7-9094-864d2b99154a","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"643752eb-681d-4590-aaa2-b81a11504d92","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"89d640d2-8ba4-4263-89d2-446b09b2342c","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c8486b74-ac00-482e-ab09-4ac9cc053879","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c991247f-4d62-422e-a04d-f4c712fdcfaa","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -78,22 +71,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_sausagemannocigar_land","path":"sprites/spr_sausagemannocigar_land/spr_sausagemannocigar_land.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5f4148b2-3ef7-4ee7-860c-cae5274fcd2f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "sausageman",
     "path": "folders/Sprites/baddie/sausageman.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_sausagemannocigar_land",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

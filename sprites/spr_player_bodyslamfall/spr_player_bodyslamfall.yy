@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_player_bodyslamfall",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,18 +27,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":{"name":"b73781a3-06da-4d9d-8d0e-c2543a6ea342","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_bodyslamfall","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"4207ca51-c614-4fbc-826c-b07a67a64b8b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4207ca51-c614-4fbc-826c-b07a67a64b8b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":{"name":"b73781a3-06da-4d9d-8d0e-c2543a6ea342","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_bodyslamfall","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"4207ca51-c614-4fbc-826c-b07a67a64b8b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"LayerId":{"name":"b73781a3-06da-4d9d-8d0e-c2543a6ea342","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_bodyslamfall","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4207ca51-c614-4fbc-826c-b07a67a64b8b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_bodyslamfall","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -43,14 +42,14 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 3.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b3b0b068-59fd-4f3e-9c41-191f2259ca90","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"b305e0f9-1c7d-4f09-9352-87d5a659c59e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4207ca51-c614-4fbc-826c-b07a67a64b8b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"7c26674f-2329-4c82-8495-b07b77621d34","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"b3b0b068-59fd-4f3e-9c41-191f2259ca90","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ed7fd96f-0dfd-4a1d-8232-250209247a2b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b305e0f9-1c7d-4f09-9352-87d5a659c59e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4207ca51-c614-4fbc-826c-b07a67a64b8b","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7c26674f-2329-4c82-8495-b07b77621d34","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"79e034a3-a97c-47d5-8409-f2f3bdecf35c","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -66,22 +65,13 @@
     "yorigin": 40,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_bodyslamfall","path":"sprites/spr_player_bodyslamfall/spr_player_bodyslamfall.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b73781a3-06da-4d9d-8d0e-c2543a6ea342","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b73781a3-06da-4d9d-8d0e-c2543a6ea342","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "pepino",
     "path": "folders/Sprites/pepino.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_player_bodyslamfall",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

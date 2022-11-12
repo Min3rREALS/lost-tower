@@ -1,1 +1,0 @@
-targetRoom = kitchen_7

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "bg_SAGEsnicksrank",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"LayerId":{"name":"94780c3a-5d51-4488-8210-5fb8181a1b33","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_SAGEsnicksrank","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"LayerId":{"name":"94780c3a-5d51-4488-8210-5fb8181a1b33","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bg_SAGEsnicksrank","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9",},
   ],
   "sequence": {
-    "spriteId": {"name":"bg_SAGEsnicksrank","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f8dbb854-73b6-43e3-8eef-5d32e69ffd35","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"4f974cfd-6bef-4c52-9a5a-d1d92b77889e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"f8dbb854-73b6-43e3-8eef-5d32e69ffd35","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1fe4fc9b-3e3e-4d4a-b93b-4837e28efe7c","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4f974cfd-6bef-4c52-9a5a-d1d92b77889e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"641ea4be-2bc4-4da5-90b1-a469a49bdcf9","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bg_SAGEsnicksrank","path":"sprites/bg_SAGEsnicksrank/bg_SAGEsnicksrank.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"94780c3a-5d51-4488-8210-5fb8181a1b33","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"94780c3a-5d51-4488-8210-5fb8181a1b33","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "cowboytask",
     "path": "folders/Sprites/demoevents/cowboytask.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "bg_SAGEsnicksrank",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

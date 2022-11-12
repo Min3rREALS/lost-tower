@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_ruincomputer",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"97af67b4-d1a0-4b85-8154-8386d4453336","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"97af67b4-d1a0-4b85-8154-8386d4453336","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"LayerId":{"name":"aaf9f795-a957-45ad-8af6-54bfb15550ce","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ruincomputer","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","name":"97af67b4-d1a0-4b85-8154-8386d4453336","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"LayerId":{"name":"aaf9f795-a957-45ad-8af6-54bfb15550ce","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_ruincomputer","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97af67b4-d1a0-4b85-8154-8386d4453336",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_ruincomputer","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.35,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"8e1129a1-9cdf-44c1-8449-22290ca42eff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97af67b4-d1a0-4b85-8154-8386d4453336","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"37caf442-8356-40f0-b080-f9f7c660fb42","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"8e1129a1-9cdf-44c1-8449-22290ca42eff","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"97af67b4-d1a0-4b85-8154-8386d4453336","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"37caf442-8356-40f0-b080-f9f7c660fb42","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7e8b97b-d8eb-4621-9d6a-b9a24a5b518f","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 50,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_ruincomputer","path":"sprites/spr_ruincomputer/spr_ruincomputer.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"aaf9f795-a957-45ad-8af6-54bfb15550ce","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"aaf9f795-a957-45ad-8af6-54bfb15550ce","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "computer",
     "path": "folders/Sprites/demoevents/computer.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_ruincomputer",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

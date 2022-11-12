@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_tvtalking2",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"43e16857-2a10-4a78-a217-ba1319b19493","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"43e16857-2a10-4a78-a217-ba1319b19493","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"LayerId":{"name":"f3e12620-1bd5-4222-bafc-ab52bbac142f","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking2","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","name":"43e16857-2a10-4a78-a217-ba1319b19493","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"LayerId":{"name":"f3e12620-1bd5-4222-bafc-ab52bbac142f","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_tvtalking2","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"43e16857-2a10-4a78-a217-ba1319b19493",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_tvtalking2","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 1.0,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1ff47afb-2881-408b-8d99-f1c5d302977c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"43e16857-2a10-4a78-a217-ba1319b19493","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"21bf3bf3-6c01-4ec8-b95d-5ced595bf623","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"1ff47afb-2881-408b-8d99-f1c5d302977c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"43e16857-2a10-4a78-a217-ba1319b19493","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"21bf3bf3-6c01-4ec8-b95d-5ced595bf623","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6ddd3f42-910d-48a6-b76c-149dd12f61b0","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 88,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_tvtalking2","path":"sprites/spr_tvtalking2/spr_tvtalking2.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f3e12620-1bd5-4222-bafc-ab52bbac142f","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f3e12620-1bd5-4222-bafc-ab52bbac142f","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "tv",
     "path": "folders/Sprites/HUD/tv.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_tvtalking2",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

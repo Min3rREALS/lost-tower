@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_platform",
   "spriteId": {
     "name": "spr_baddie",
     "path": "sprites/spr_baddie/spr_baddie.yy",
@@ -28,8 +31,4 @@
     "name": "block",
     "path": "folders/Objects/level_structure/block.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_platform",
-  "tags": [],
-  "resourceType": "GMObject",
 }

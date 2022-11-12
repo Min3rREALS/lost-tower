@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "spr_characterchangecube",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -24,15 +27,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"LayerId":{"name":"a8e6df38-7fee-40f9-808a-d46f776d68a1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_characterchangecube","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"LayerId":{"name":"a8e6df38-7fee-40f9-808a-d46f776d68a1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_characterchangecube","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_characterchangecube","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -40,13 +41,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"37c7e0fa-c2ea-4163-bb22-ff7019047223","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"ad7e45c5-5ba1-419c-9168-37de15b88ccb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"37c7e0fa-c2ea-4163-bb22-ff7019047223","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"34bde87d-7933-4c2e-b915-bb3a8069a0c1","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ad7e45c5-5ba1-419c-9168-37de15b88ccb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f31dd751-bf76-4894-9d6c-4dcd89a448a5","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +63,13 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_characterchangecube","path":"sprites/spr_characterchangecube/spr_characterchangecube.yy",},
-    "resourceVersion": "1.4",
-    "name": "",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a8e6df38-7fee-40f9-808a-d46f776d68a1","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a8e6df38-7fee-40f9-808a-d46f776d68a1","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "demoevents",
     "path": "folders/Sprites/demoevents.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "spr_characterchangecube",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
