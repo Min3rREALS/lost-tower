@@ -72,6 +72,26 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_secret
         }
     }
+    if (string_letters(roomname) == "bathroomsecret")
+    {
+        if (!audio_is_playing(mu_bathsecret))
+        {
+            audio_stop_all()
+            scr_sound(mu_bathsecret)
+            audio_sound_set_track_position(global.music, fadeoff)
+            pausedmusic = mu_bathsecret
+        }
+    }
+    if (string_letters(roomname) == "bathroom")
+    {
+        if (!audio_is_playing(mu_bathroom))
+        {
+            audio_stop_all()
+            scr_sound(mu_bathroom)
+            audio_sound_set_track_position(global.music, fadeoff)
+            pausedmusic = mu_bathroom
+        }
+    }
     if (string_letters(roomname) == "kitchen")
     {
         for (i = 0; i < 20; i++)

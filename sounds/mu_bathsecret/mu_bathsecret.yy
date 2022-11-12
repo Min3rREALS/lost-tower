@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_bathsecret",
-  "duration": 0.0,
+  "soundFile": "mu_bathsecret.mp3",
+  "duration": 71.75835,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

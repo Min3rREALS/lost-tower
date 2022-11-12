@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_bathroom",
-  "duration": 0.0,
+  "soundFile": "mu_bathroom.wav",
+  "duration": 107.12018,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
