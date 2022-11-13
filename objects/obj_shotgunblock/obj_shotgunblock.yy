@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_solid",
-    "path": "objects/obj_solid/obj_solid.yy",
+    "name": "obj_bombblock",
+    "path": "objects/obj_bombblock/obj_bombblock.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -29,7 +29,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
