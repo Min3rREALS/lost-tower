@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "mu_chase",
   "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
@@ -11,14 +14,10 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_chase",
-  "duration": 0.0,
+  "soundFile": "mu_chase.ogg",
+  "duration": 154.71274,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "mu_chase",
-  "tags": [],
-  "resourceType": "GMSound",
 }
