@@ -1,0 +1,1 @@
+targetRoom = computer_2

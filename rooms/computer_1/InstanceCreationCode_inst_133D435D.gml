@@ -1,1 +1,0 @@
-targetRoom = computer_pillartest;
