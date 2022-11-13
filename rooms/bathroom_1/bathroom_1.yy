@@ -380,6 +380,8 @@
     {"name":"inst_39676CB","path":"rooms/bathroom_1/bathroom_1.yy",},
     {"name":"inst_78ABB3DB","path":"rooms/bathroom_1/bathroom_1.yy",},
     {"name":"inst_28EA9BEA","path":"rooms/bathroom_1/bathroom_1.yy",},
+    {"name":"inst_78ABB3DB","path":"rooms/bathroom_1/bathroom_1.yy",},
+    {"name":"inst_28EA9BEA","path":"rooms/bathroom_1/bathroom_1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
