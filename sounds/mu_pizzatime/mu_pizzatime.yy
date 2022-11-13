@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "mu_pizzatime",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.7,
+  "volume": 1.0,
   "preload": true,
   "bitRate": 192,
   "sampleRate": 44100,
@@ -11,14 +14,10 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_pizzatime.ogg",
-  "duration": 220.10399,
+  "soundFile": "mu_pizzatime.wav",
+  "duration": 0.0,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "mu_pizzatime",
-  "tags": [],
-  "resourceType": "GMSound",
 }
