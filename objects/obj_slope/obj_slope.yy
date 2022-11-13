@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_slope",
   "spriteId": {
     "name": "spr_slope",
     "path": "sprites/spr_slope/spr_slope.yy",
@@ -28,8 +31,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_slope",
-  "tags": [],
-  "resourceType": "GMObject",
 }

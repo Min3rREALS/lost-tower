@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_doorC",
   "spriteId": {
     "name": "sprite1023",
     "path": "sprites/sprite1023/sprite1023.yy",
@@ -28,8 +31,4 @@
     "name": "door",
     "path": "folders/Objects/level_structure/door.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_doorC",
-  "tags": [],
-  "resourceType": "GMObject",
 }

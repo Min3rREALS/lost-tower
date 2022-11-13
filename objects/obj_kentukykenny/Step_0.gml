@@ -38,11 +38,11 @@ if ((state == 106) && ((stunned > 40) && (birdcreated == 0)))
 }
 if (state != 106)
     birdcreated = 0
-idlespr = 283
-stunfallspr = 284
-walkspr = 282
-stunspr = 284
-grabbedspr = 284
+idlespr = spr_kentukykenny_idle
+stunfallspr = spr_kentukykenny_stun
+walkspr = spr_kentukykenny_walk
+stunspr = spr_kentukykenny_stun
+grabbedspr = spr_kentukykenny_stun
 if ((flash == 1) && (alarm[2] <= 0))
     alarm[2] = (0.15 * room_speed)
 if (state != 109)
