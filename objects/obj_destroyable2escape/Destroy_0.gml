@@ -7,7 +7,7 @@ if (ds_list_find_index(global.saveroom, id) == -1)
             with (instance_create((x + 16), y, obj_pizzadebris))
                 sprite_index = spr_debrisescape
         }
-        instance_create(x, y, obj_collect)
+        instance_create(x, y, obj_collectescape)
         tile_layer_delete_at(1, x, y)
         if (audio_is_playing(sfx_breakblock1) || audio_is_playing(sfx_breakblock2))
         {

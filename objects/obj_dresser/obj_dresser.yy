@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_dresser",
   "spriteId": {
     "name": "sprite1343",
     "path": "sprites/sprite1343/sprite1343.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -29,8 +33,4 @@
     "name": "hardoween",
     "path": "folders/Objects/demoevents/hardoween.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_dresser",
-  "tags": [],
-  "resourceType": "GMObject",
 }
