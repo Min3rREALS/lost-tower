@@ -3,6 +3,6 @@ hsp = 0
 vsp = 0
 grav = 0.5
 dead = 0
-screamintro = 0
+screamintro = 1
 spd = 0
 

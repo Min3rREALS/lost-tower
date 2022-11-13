@@ -13,7 +13,7 @@ if ((obj_player.state != 61) && (screamintro == 0))
         state = 51
         sprite_index = spr_player_bossintro
     }
-    screamintro = 1
+    screamintro = 0
 }
 if ((obj_player.state != 51) && ((screamintro == 1) && ((sprite_index != spr_pepperman_charge) && (dead == 0))))
 {
