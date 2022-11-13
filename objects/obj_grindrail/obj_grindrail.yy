@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_grindrail",
   "spriteId": {
     "name": "spr_hurtbox",
     "path": "sprites/spr_hurtbox/spr_hurtbox.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "block",
     "path": "folders/Objects/level_structure/block.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_grindrail",
-  "tags": [],
-  "resourceType": "GMObject",
 }

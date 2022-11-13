@@ -1,20 +1,23 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_noisebombspawner",
+  "name": "obj_superblock",
   "spriteId": {
-    "name": "spr_noise_throwbomb",
-    "path": "sprites/spr_noise_throwbomb/spr_noise_throwbomb.yy",
+    "name": "sprite12241508",
+    "path": "sprites/sprite12241508/sprite12241508.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_bombblock",
+    "path": "objects/obj_bombblock/obj_bombblock.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
-  "physicsShape": 0,
+  "physicsShape": 1,
   "physicsGroup": 0,
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
@@ -26,12 +29,11 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "hazards",
-    "path": "folders/Objects/level_structure/hazards.yy",
+    "name": "tower",
+    "path": "folders/Objects/level_structure/tower.yy",
   },
 }

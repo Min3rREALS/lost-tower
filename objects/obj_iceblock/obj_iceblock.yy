@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_solid",
-    "path": "objects/obj_solid/obj_solid.yy",
+    "name": "obj_bombblock",
+    "path": "objects/obj_bombblock/obj_bombblock.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
