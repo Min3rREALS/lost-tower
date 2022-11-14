@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_pizzaballblock",
   "spriteId": {
     "name": "spr_pizzaballblock",
     "path": "sprites/spr_pizzaballblock/spr_pizzaballblock.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -23,17 +27,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
     "name": "other",
     "path": "folders/Objects/other.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_pizzaballblock",
-  "tags": [],
-  "resourceType": "GMObject",
 }
