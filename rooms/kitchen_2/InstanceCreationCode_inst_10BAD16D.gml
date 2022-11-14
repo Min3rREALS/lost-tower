@@ -1,1 +1,1 @@
-targetRoom = kitchenescape_1
+targetRoom = kitchenescape_2

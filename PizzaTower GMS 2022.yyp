@@ -159,6 +159,7 @@
     {"id":{"name":"spr_pizzagoblin_flying","path":"sprites/spr_pizzagoblin_flying/spr_pizzagoblin_flying.yy",},"order":21,},
     {"id":{"name":"spr_pizzagoblin_hit","path":"sprites/spr_pizzagoblin_hit/spr_pizzagoblin_hit.yy",},"order":23,},
     {"id":{"name":"spr_pizzagoblin_hitceilling","path":"sprites/spr_pizzagoblin_hitceilling/spr_pizzagoblin_hitceilling.yy",},"order":25,},
+    {"id":{"name":"kitchenescape_2","path":"rooms/kitchenescape_2/kitchenescape_2.yy",},"order":12,},
     {"id":{"name":"spr_pizzagoblin_land","path":"sprites/spr_pizzagoblin_land/spr_pizzagoblin_land.yy",},"order":27,},
     {"id":{"name":"spr_pizzagoblin_fall","path":"sprites/spr_pizzagoblin_fall/spr_pizzagoblin_fall.yy",},"order":29,},
     {"id":{"name":"spr_pizzagoblin_turn","path":"sprites/spr_pizzagoblin_turn/spr_pizzagoblin_turn.yy",},"order":31,},
@@ -2513,6 +2514,7 @@
     {"roomId":{"name":"experiment_room","path":"rooms/experiment_room/experiment_room.yy",},},
     {"roomId":{"name":"bathroom_6","path":"rooms/bathroom_6/bathroom_6.yy",},},
     {"roomId":{"name":"bathroom_johnnytest","path":"rooms/bathroom_johnnytest/bathroom_johnnytest.yy",},},
+    {"roomId":{"name":"kitchenescape_2","path":"rooms/kitchenescape_2/kitchenescape_2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":1,},
