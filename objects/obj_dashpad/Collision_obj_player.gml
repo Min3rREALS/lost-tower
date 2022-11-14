@@ -7,7 +7,7 @@ with (obj_player)
         machhitAnim = 0
         state = 91
         flash = 1
-        sprite_index = spr_player_mach4
+        sprite_index = spr_mach4
         instance_create(x, y, obj_jumpdust)
         movespeed = 14
     }

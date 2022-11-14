@@ -63,6 +63,16 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_desert
         }
     }
+    if (string_letters(roomname) == "experiment")
+    {
+        if (!audio_is_playing(mu_testroom))
+        {
+            audio_stop_all()
+            scr_sound(mu_testroom)
+            audio_sound_set_track_position(global.music, fadeoff)
+            pausedmusic = mu_testroom
+        }
+    }
     if (string_letters(roomname) == "kitchensecret")
     {
         if (!audio_is_playing(mu_secret))

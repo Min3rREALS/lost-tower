@@ -860,6 +860,7 @@
     {"id":{"name":"spr_shotgunimpact","path":"sprites/spr_shotgunimpact/spr_shotgunimpact.yy",},"order":65,},
     {"id":{"name":"spr_grabicon","path":"sprites/spr_grabicon/spr_grabicon.yy",},"order":67,},
     {"id":{"name":"spr_pizzakinpineapple_panic","path":"sprites/spr_pizzakinpineapple_panic/spr_pizzakinpineapple_panic.yy",},"order":1,},
+    {"id":{"name":"mu_testroom","path":"sounds/mu_testroom/mu_testroom.yy",},"order":61,},
     {"id":{"name":"spr_pizzakinpineapple_run","path":"sprites/spr_pizzakinpineapple_run/spr_pizzakinpineapple_run.yy",},"order":3,},
     {"id":{"name":"spr_pizzakinpineapple_underwater","path":"sprites/spr_pizzakinpineapple_underwater/spr_pizzakinpineapple_underwater.yy",},"order":5,},
     {"id":{"name":"spr_pizzakinpineapple","path":"sprites/spr_pizzakinpineapple/spr_pizzakinpineapple.yy",},"order":7,},

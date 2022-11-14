@@ -1,1 +1,0 @@
-targetRoom = bathroom_3

@@ -44,6 +44,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5828FA23","properties":[],"isDnd":false,"objectId":{"name":"obj_startgate","path":"objects/obj_startgate/obj_startgate.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2208.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B70F747","properties":[],"isDnd":false,"objectId":{"name":"obj_ranksign","path":"objects/obj_ranksign/obj_ranksign.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2112.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F5E3B35","properties":[],"isDnd":false,"objectId":{"name":"obj_characterchangecube","path":"objects/obj_characterchangecube/obj_characterchangecube.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1568.0,"y":320.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10FFD617","properties":[],"isDnd":false,"objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1760.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_718A6BA0","properties":[],"isDnd":false,"objectId":{"name":"obj_doorA","path":"objects/obj_doorA/obj_doorA.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1792.0,"y":416.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","tilesetId":{"name":"tile_pizzamart_tileset","path":"tilesets/tile_pizzamart_tileset/tile_pizzamart_tileset.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":79,"SerialiseHeight":17,"TileCompressedData":[
 -239,25,1,17,-72,32,1,19,-3,25,-2,15,1,16,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,-2147483648,1,21,-5,25,1,26,-72,
@@ -77,6 +79,8 @@
     {"name":"inst_5828FA23","path":"rooms/hub_room1/hub_room1.yy",},
     {"name":"inst_2B70F747","path":"rooms/hub_room1/hub_room1.yy",},
     {"name":"inst_1F5E3B35","path":"rooms/hub_room1/hub_room1.yy",},
+    {"name":"inst_10FFD617","path":"rooms/hub_room1/hub_room1.yy",},
+    {"name":"inst_718A6BA0","path":"rooms/hub_room1/hub_room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
