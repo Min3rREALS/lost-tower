@@ -6,13 +6,13 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
         scr_sound(mu_chase)
     }
     var roomname = room_get_name(room)
-    if (room == characterselect)
+    if (room == bathroom_johnnytest)
     {
-        if (!audio_is_playing(mu_characterselect))
+        if (!audio_is_playing(mu_snakeeater))
         {
             audio_stop_all()
-            scr_sound(mu_characterselect)
-            pausedmusic = mu_characterselect
+            scr_sound(mu_snakeeater)
+            pausedmusic = mu_snakeeater
         }
     }
     if ((string_letters(roomname) == "Realtitlescreen") || (string_letters(roomname) == "Realtitlescreen"))
@@ -42,14 +42,15 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_tutorial
         }
     }
-    if (string_letters(roomname) == "entrance")
+	var roomname = room_get_name(room)
+     if (room == bathroom_5)
     {
-        if (!audio_is_playing(mu_entrance))
+        if (!audio_is_playing(mu_dungeondepth))
         {
             audio_stop_all()
-            scr_sound(mu_entrance)
+            scr_sound(mu_dungeondepth)
             audio_sound_set_track_position(global.music, fadeoff)
-            pausedmusic = mu_entrance
+            pausedmusic = mu_dungeondepth
         }
     }
     if (string_letters(roomname) == "dungeon")
