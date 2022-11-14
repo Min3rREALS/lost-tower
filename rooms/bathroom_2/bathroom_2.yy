@@ -226,8 +226,6 @@
     {"name":"inst_709327DB","path":"rooms/bathroom_2/bathroom_2.yy",},
     {"name":"inst_20C181B1","path":"rooms/bathroom_2/bathroom_2.yy",},
     {"name":"inst_709327DB","path":"rooms/bathroom_2/bathroom_2.yy",},
-    {"name":"inst_542DDCC0","path":"rooms/bathroom_2/bathroom_2.yy",},
-    {"name":"inst_59302829","path":"rooms/bathroom_2/bathroom_2.yy",},
     {"name":"inst_20C181B1","path":"rooms/bathroom_2/bathroom_2.yy",},
   ],
   "inheritCreationOrder": false,
