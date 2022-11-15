@@ -63,7 +63,7 @@ if ((global.panic == 0) && (global.snickchallenge == 0))
             pausedmusic = mu_desert
         }
     }
-    if (string_letters(roomname) == "experiment")
+    if (string_letters(roomname) == "experiment_room")
     {
         if (!audio_is_playing(mu_testroom))
         {
