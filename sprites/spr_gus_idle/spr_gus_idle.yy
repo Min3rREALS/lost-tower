@@ -49,7 +49,7 @@
     "name": "spr_gus_idle",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 0.35,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 1,
     "autoRecord": true,
     "volume": 1.0,
